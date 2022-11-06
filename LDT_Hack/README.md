@@ -1,6 +1,6 @@
 ## Файлы с кодом
 - [Оптимизированный код](https://github.com/Liliyanr/OtherProjects/blob/main/LDT_Hack/liderIT_Statura_11.ipynb)
-- [Полный код с разбором действий](https://disk.yandex.ru/i/uhuPis8TQCJEHw)
+- [Полный код с разбором действий](https://github.com/Liliyanr/OtherProjects/blob/main/LDT_Hack/liderIT_Statura_9.ipynb)
 
 # СЕРВИС ФОРМИРОВАНИЯ ЗАДАЧ ДЛЯ МОСКВИЧЕЙ ПО КОНТРОЛЮ РАБОТ ПОДРЯДЧИКОВ В СФЕРЕ ГОРОДСКОГО БЛАГОУСТРОЙСТВА
 ## Цель
