@@ -1,7 +1,7 @@
 ## Файлы с кодом
 - [Оптимизированный код](https://github.com/Liliyanr/OtherProjects/blob/main/LDT_Hack/liderIT_Statura_11.ipynb)
 - [Полный код с разбором действий](https://github.com/Liliyanr/OtherProjects/blob/main/LDT_Hack/liderIT_Statura_9.ipynb)
-
+- [Папка с обработанными справочниками](https://github.com/Liliyanr/OtherProjects/tree/main/LDT_Hack/References)
 # СЕРВИС ФОРМИРОВАНИЯ ЗАДАЧ ДЛЯ МОСКВИЧЕЙ ПО КОНТРОЛЮ РАБОТ ПОДРЯДЧИКОВ В СФЕРЕ ГОРОДСКОГО БЛАГОУСТРОЙСТВА
 ## Цель
 **Разработка сервиса, который с помощью распознавания документации проектов городского благоустройства сформирует для москвичей задания по мониторингу выполненных подрядчиками работ**
