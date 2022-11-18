@@ -3,6 +3,7 @@
 - [Полный код с разбором действий](https://github.com/Liliyanr/OtherProjects/blob/main/LDT_Hack/liderIT_Statura_9.ipynb)
 - [Папка с обработанными справочниками](https://github.com/Liliyanr/OtherProjects/tree/main/LDT_Hack/References)
 - [Сервис работы со справочниками](https://github.com/Liliyanr/OtherProjects/tree/main/LDT_Hack/Reference_files)
+- [Презентация](https://github.com/Liliyanr/OtherProjects/blob/main/LDT_Hack/Statura_Презентация_pdf.pdf)
 
 # СЕРВИС ФОРМИРОВАНИЯ ЗАДАЧ ДЛЯ МОСКВИЧЕЙ ПО КОНТРОЛЮ РАБОТ ПОДРЯДЧИКОВ В СФЕРЕ ГОРОДСКОГО БЛАГОУСТРОЙСТВА
 ## Цель
