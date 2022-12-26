@@ -1,5 +1,5 @@
 # Мои проекты были созданы самостоятельно:
-- в команде с участниками в мастерской Яндекс Практикума, 
+- в мастерской Яндекс Практикума, 
 - при участие в хакатонах,
 - прохождение тестов.
 ### Проекты анализа данных в Python, Tableau.
@@ -12,3 +12,4 @@
 | [4. Тестовое задание от Райффайзен Банк](https://github.com/Liliyanr/OtherProjects/tree/main/4.%20Test_Raiffeisen)| Создание метрики социальной активности пользователей | *pandas, numpy, datetime, matplotlib.pyplot, seaborn, geopandas.tools.geocode, folium, geopy.distance.geodesic* |
 | [5. Хакатон LDT- Лидеры Цифровой Трансформации «Сервис формирования задач для москвичей по контролю работ подрядчиков в сфере городского благоустройства»](https://github.com/Liliyanr/OtherProjects/tree/main/LDT_Hack)| Разработка технического решения, способного укрупнить и структурировать производимые работы до необходимого уровня. | *pandas, numpy* |
 | [6. Google Sheets в Яндекс Практикуме](https://github.com/Liliyanr/OtherProjects/tree/main/6.%20Excel)| Работа в Google Sheets анализ работы парикмахерской | *DATE, COUNT (-IF, -IFS, -A, -BLANK, -UNIQUE), AVERAGE, MAX, MIN, SUM, сводные таблицы, VALUE, LEFT (RIGHT), AND, OR, IF, VLOOKUP -ВПР, IFERROR, IMPORTRANGE, QUERY, TRANSPOSE, WEEKNUM, WEEKDAY, диаграммы* |
+| [7. Анализ транспортной безопасности]()| Работа в Google Sheets анализ работы парикмахерской | ** |
