@@ -2,7 +2,7 @@
 - в мастерской Яндекс Практикума, 
 - при участие в хакатонах,
 - прохождение тестов.
-### Проекты анализа данных в Python, Tableau.
+### Проекты анализа данных в Python, Tableau, Google Sheets (Excel), Power BI (Dax, Power Query).
 ### [Учебные проекты](https://github.com/Liliyanr/YandexPracticum)
 
 | Название проекта | Задача проекта | Используемые библиотеки |
