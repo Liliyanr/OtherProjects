@@ -17,3 +17,4 @@
 | [7. Анализ транспортной безопасности](https://github.com/Liliyanr/OtherProjects/tree/main/7.%20Geoanalytics)| Исследование г. Москвы в разрезе транспортной безопасности и основных причин ДТП | *geopandas, pandas, json, fiona, ast.literal_eval, geopy, folium, datetime, numpy, matplotlib, seaborn* |
 | [8. Экономический анализ работы магазина Adventure Works CYCLES](https://disk.yandex.ru/i/E-XuxsvWG2U9ZQ)| Анализ доходности, продуктовый, покупательский анализ| *Power BI, Dax, Power Query* |
 | [9. BI аналитика в дашборде поликлиники](https://datalens.yandex.cloud/eetfvyc1jgk02-lf-zagruzka-cplf?state=45025d62853)| Анализ загрузки отделений| *datalens.yandex* |
+| [10. Продуктовый анализ группы услуг](https://disk.yandex.ru/i/7pC-15P952H63A)| ABC/ XYZ анализ| *ABC, XYZ, продуктовый анализ* |
