@@ -18,3 +18,4 @@
 | [8. Экономический анализ работы магазина Adventure Works CYCLES](https://disk.yandex.ru/i/E-XuxsvWG2U9ZQ)| Анализ доходности, продуктовый, покупательский анализ| *Power BI, Dax, Power Query* |
 | [9. BI аналитика в дашборде поликлиники](https://datalens.yandex.cloud/eetfvyc1jgk02-lf-zagruzka-cplf?state=45025d62853)| Анализ загрузки отделений| *datalens.yandex* |
 | [10. Продуктовый анализ группы услуг](https://disk.yandex.ru/i/7pC-15P952H63A)| ABC/ XYZ анализ| *ABC, XYZ, продуктовый анализ* |
+| [11. Анализ численности населения РФ от начала с прогнозом на 2026 г (сегодня апр.24)]()| | *Excel, Power Query, прогнозирование, срезы, сводные, диаграммы* |
