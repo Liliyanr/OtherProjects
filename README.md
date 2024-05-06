@@ -19,3 +19,4 @@
 | [9. BI аналитика в дашборде поликлиники](https://datalens.yandex.cloud/eetfvyc1jgk02-lf-zagruzka-cplf?state=45025d62853)| Анализ загрузки отделений| *datalens.yandex* |
 | [10. Продуктовый анализ группы услуг](https://disk.yandex.ru/i/7pC-15P952H63A)| ABC/ XYZ анализ| *ABC, XYZ, продуктовый анализ* |
 | [11. Анализ численности населения РФ от начала с прогнозом на 2026 г (сегодня апр.24)](https://disk.yandex.ru/i/fg-wU5etzBa-aQ)| Excel | *Excel, Power Query, прогнозирование, срезы, сводные, диаграммы* |
+| [12. Анализ загрузки поликлиники в POWER BI](https://disk.yandex.ru/i/RJixtzFdN3__pA)| Анализ загрузки отделений| *Power Query, Power BI, меры* |
