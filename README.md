@@ -3,7 +3,7 @@
 - при участие в хакатонах,
 - прохождение тестов,
 - самостоятельное изучение.
-### Проекты анализа данных в Python, Tableau, Google Sheets (Excel), Power BI (Dax, Power Query) и YandexDatalens.
+### Проекты анализа данных в Python, Tableau, Google Sheets/Excel, SQL, Power BI (Dax, Power Query) и YandexDatalens.
 ### [Нажмите сюда, чтобы посмотреть учебные проекты](https://github.com/Liliyanr/YandexPracticum)
 
 | Название проекта | Задача проекта | Используемые библиотеки |
