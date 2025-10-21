@@ -20,3 +20,4 @@
 | [10. Продуктовый анализ группы услуг](https://disk.yandex.ru/i/7pC-15P952H63A)| ABC/ XYZ анализ| *ABC, XYZ, продуктовый анализ* |
 | [11. Анализ численности населения РФ от начала с прогнозом на 2026 г (сегодня апр.24)](https://disk.yandex.ru/i/fg-wU5etzBa-aQ)| Загрузить и смотреть в Эксель | *Excel, Power Query, прогнозирование, срезы, сводные, диаграммы* |
 | [12. Анализ загрузки поликлиники в POWER BI](https://disk.yandex.ru/i/RJixtzFdN3__pA)| Выявить закономерности загрузки отделений| *Power Query, Power BI, меры* |
+| [13. Анализ бизнес-показателей в POWER BI, Excel, SQL](https://disk.yandex.ru/i/8OtnRxYhhWRSNQ)| Написать скрипты выгрузки из БД, Создать отчет в Power BI| *Excel, Power BI (DAX), SQL (CTE) |
